@@ -1,2 +1,2 @@
 # Frontend-practise-project
-A small project usinh HTML,CSS
+A small project using HTML,CSS
